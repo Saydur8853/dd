@@ -1,0 +1,16 @@
+url_list = [
+        "https://www.myupchar.com/bn/disease/gastritis",
+        "https://www.myupchar.com/bn/disease/anemia",
+        "https://www.myupchar.com/bn/disease/angina",
+        "https://www.myupchar.com/bn/disease/sleep-apnea",
+        "https://www.myupchar.com/bn/disease/arthritis",
+        "https://www.myupchar.com/bn/disease/asthma",
+        "https://www.myupchar.com/en/disease/atrial-fibrillation",
+        "https://www.myupchar.com/bn/disease/bronchitis",
+        "https://www.myupchar.com/bn/disease/cardiomyopathy",
+        "https://www.myupchar.com/bn/disease/cervical-pain",
+        "https://www.myupchar.com/bn/disease/chikungunya",
+        "https://www.myupchar.com/bn/disease/psoriatic-arthritis",
+        "https://www.myupchar.com/bn/disease/chronic-kidney-disease",
+        "https://www.myupchar.com/bn/disease/rheumatoid-arthritis",
+    ]
